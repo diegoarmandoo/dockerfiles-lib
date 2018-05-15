@@ -1,0 +1,2 @@
+#Tratar todos os shell scripts com final de linha unix
+*.sh eol=lf
